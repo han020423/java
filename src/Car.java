@@ -1,9 +1,8 @@
 
 public class Car {
-	private
-	String color;
-	int speed = 0;
-	int gear = 0;
+	public String color;
+	public int speed = 0;
+	public int gear = 0;
 	
 	public 
 	void changeGear(int newGear) {
