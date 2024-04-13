@@ -17,6 +17,6 @@ public class SafeArray {
 		if(index < length && index >= 0)
 			return a[index];
 		else
-			return -1;
+			return 0;
 	}
 }
