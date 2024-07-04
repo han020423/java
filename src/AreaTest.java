@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//반지름을 입력받아 원의 넓이를 구하는 프로그램
 public class AreaTest {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);

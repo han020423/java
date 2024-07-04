@@ -1,6 +1,6 @@
 
 public class AutoCar implements OperateCar{
-
+// OperateCar 인터체이스를 상속받아 만든 AutoCar 클래스
 	@Override
 	public void start() {
 		System.out.println("start");	

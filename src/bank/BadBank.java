@@ -1,3 +1,4 @@
+package bank;
 
 public class BadBank extends Bank{
 	@Override

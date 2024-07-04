@@ -1,4 +1,4 @@
-
+package bank;
 public class NormalBank extends Bank{
 	@Override
 	public double getInterestRate() {
